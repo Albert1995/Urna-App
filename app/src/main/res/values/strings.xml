@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Urna</string>
+    <string name="perc_votos_lbl">% Votos:</string>
 </resources>
