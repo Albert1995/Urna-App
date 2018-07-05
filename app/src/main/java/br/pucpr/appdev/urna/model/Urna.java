@@ -31,4 +31,8 @@ public class Urna {
         return Collections.unmodifiableList(candidatos);
     }
 
+    public int getTotalVotos() {
+        return totalVotos;
+    }
+
 }
