@@ -3,4 +3,5 @@
     <string name="perc_votos_lbl">% Votos:</string>
     <string name="cand_rank">Candidatos - Ranking</string>
     <string name="cand_name">--- Nome Cnadidato ---</string>
+    <string name="votar">Votar</string>
 </resources>
